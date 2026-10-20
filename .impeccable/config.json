@@ -20,6 +20,18 @@
         ],
         "createdAt": "2026-10-20T17:45:39.438Z",
         "reason": "pitch-site calm-photo-style.md (Ellie's house style) fixes these body-scale sizes: 14px eyebrow, 16px body, 17-19px lede, 18px buttons, 20px promise; display scale runs 30-84px"
+      },
+      {
+        "rule": "design-system-radius",
+        "value": "6px",
+        "createdAt": "2026-10-20T17:48:46.448Z",
+        "reason": "focus-ring corner on :focus-visible outlines, not a surface radius; intentional in the shipped build"
+      },
+      {
+        "rule": "design-system-font-size",
+        "value": "22px",
+        "createdAt": "2026-10-20T17:48:46.511Z",
+        "reason": "desktop step-title size in How it works (21px phone, 22px >=1024px); intentional, missed by DESIGN.md"
       }
     ]
   }
