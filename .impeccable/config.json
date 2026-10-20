@@ -11,6 +11,15 @@
         ],
         "createdAt": "2026-10-20T17:41:01.513Z",
         "reason": "Ellie's house calm band style (pitch-site calm-photo-style.md, chosen 2026-10-19) mandates the faint 135deg line texture on deep bands"
+      },
+      {
+        "rule": "flat-type-hierarchy",
+        "value": "*",
+        "files": [
+          "index.html"
+        ],
+        "createdAt": "2026-10-20T17:45:39.438Z",
+        "reason": "pitch-site calm-photo-style.md (Ellie's house style) fixes these body-scale sizes: 14px eyebrow, 16px body, 17-19px lede, 18px buttons, 20px promise; display scale runs 30-84px"
       }
     ]
   }

@@ -1,0 +1,497 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-20T17:48:04.899306+00:00",
+  "title": "Design System: McBride Services LLC",
+  "extensions": {
+    "colorMeta": {
+      "mcbride-green": {
+        "role": "primary",
+        "displayName": "McBride Green",
+        "canonical": "#4cb648",
+        "tonalRamp": [
+          "oklch(15.0% 0.120 142.8)",
+          "oklch(26.4% 0.120 142.8)",
+          "oklch(37.9% 0.120 142.8)",
+          "oklch(49.3% 0.120 142.8)",
+          "oklch(60.7% 0.120 142.8)",
+          "oklch(72.1% 0.120 142.8)",
+          "oklch(83.6% 0.120 142.8)",
+          "oklch(95.0% 0.120 142.8)"
+        ]
+      },
+      "mcbride-green-hover": {
+        "role": "primary",
+        "displayName": "McBride Green, Lifted",
+        "canonical": "#64c560",
+        "tonalRamp": [
+          "oklch(15.0% 0.120 142.9)",
+          "oklch(26.4% 0.120 142.9)",
+          "oklch(37.9% 0.120 142.9)",
+          "oklch(49.3% 0.120 142.9)",
+          "oklch(60.7% 0.120 142.9)",
+          "oklch(72.1% 0.120 142.9)",
+          "oklch(83.6% 0.120 142.9)",
+          "oklch(95.0% 0.120 142.9)"
+        ]
+      },
+      "green-lit": {
+        "role": "primary",
+        "displayName": "Green Lit",
+        "canonical": "#74cc6c",
+        "tonalRamp": [
+          "oklch(15.0% 0.120 142.2)",
+          "oklch(26.4% 0.120 142.2)",
+          "oklch(37.9% 0.120 142.2)",
+          "oklch(49.3% 0.120 142.2)",
+          "oklch(60.7% 0.120 142.2)",
+          "oklch(72.1% 0.120 142.2)",
+          "oklch(83.6% 0.120 142.2)",
+          "oklch(95.0% 0.120 142.2)"
+        ]
+      },
+      "green-ink": {
+        "role": "primary",
+        "displayName": "Logo Green Ink",
+        "canonical": "#1f6929",
+        "tonalRamp": [
+          "oklch(15.0% 0.120 145.5)",
+          "oklch(26.4% 0.120 145.5)",
+          "oklch(37.9% 0.120 145.5)",
+          "oklch(49.3% 0.120 145.5)",
+          "oklch(60.7% 0.120 145.5)",
+          "oklch(72.1% 0.120 145.5)",
+          "oklch(83.6% 0.120 145.5)",
+          "oklch(95.0% 0.120 145.5)"
+        ]
+      },
+      "water-navy": {
+        "role": "neutral",
+        "displayName": "Water Navy",
+        "canonical": "#143a5e",
+        "tonalRamp": [
+          "oklch(15.0% 0.076 250.1)",
+          "oklch(26.4% 0.076 250.1)",
+          "oklch(37.9% 0.076 250.1)",
+          "oklch(49.3% 0.076 250.1)",
+          "oklch(60.7% 0.076 250.1)",
+          "oklch(72.1% 0.076 250.1)",
+          "oklch(83.6% 0.076 250.1)",
+          "oklch(95.0% 0.076 250.1)"
+        ]
+      },
+      "deep-navy": {
+        "role": "neutral",
+        "displayName": "Deep Navy",
+        "canonical": "#0b2038",
+        "tonalRamp": [
+          "oklch(15.0% 0.054 253.5)",
+          "oklch(26.4% 0.054 253.5)",
+          "oklch(37.9% 0.054 253.5)",
+          "oklch(49.3% 0.054 253.5)",
+          "oklch(60.7% 0.054 253.5)",
+          "oklch(72.1% 0.054 253.5)",
+          "oklch(83.6% 0.054 253.5)",
+          "oklch(95.0% 0.054 253.5)"
+        ]
+      },
+      "ink": {
+        "role": "neutral",
+        "displayName": "Ink",
+        "canonical": "#0b2038",
+        "tonalRamp": [
+          "oklch(15.0% 0.054 253.5)",
+          "oklch(26.4% 0.054 253.5)",
+          "oklch(37.9% 0.054 253.5)",
+          "oklch(49.3% 0.054 253.5)",
+          "oklch(60.7% 0.054 253.5)",
+          "oklch(72.1% 0.054 253.5)",
+          "oklch(83.6% 0.054 253.5)",
+          "oklch(95.0% 0.054 253.5)"
+        ]
+      },
+      "paper": {
+        "role": "neutral",
+        "displayName": "Paper",
+        "canonical": "#f4f6fb",
+        "tonalRamp": [
+          "oklch(15.0% 0.007 268.5)",
+          "oklch(26.4% 0.007 268.5)",
+          "oklch(37.9% 0.007 268.5)",
+          "oklch(49.3% 0.007 268.5)",
+          "oklch(60.7% 0.007 268.5)",
+          "oklch(72.1% 0.007 268.5)",
+          "oklch(83.6% 0.007 268.5)",
+          "oklch(95.0% 0.007 268.5)"
+        ]
+      },
+      "card": {
+        "role": "neutral",
+        "displayName": "Card White",
+        "canonical": "#ffffff",
+        "tonalRamp": [
+          "oklch(15.0% 0.000 89.9)",
+          "oklch(26.4% 0.000 89.9)",
+          "oklch(37.9% 0.000 89.9)",
+          "oklch(49.3% 0.000 89.9)",
+          "oklch(60.7% 0.000 89.9)",
+          "oklch(72.1% 0.000 89.9)",
+          "oklch(83.6% 0.000 89.9)",
+          "oklch(95.0% 0.000 89.9)"
+        ]
+      },
+      "field": {
+        "role": "neutral",
+        "displayName": "Field Tint",
+        "canonical": "#e6ecf5",
+        "tonalRamp": [
+          "oklch(15.0% 0.014 258.3)",
+          "oklch(26.4% 0.014 258.3)",
+          "oklch(37.9% 0.014 258.3)",
+          "oklch(49.3% 0.014 258.3)",
+          "oklch(60.7% 0.014 258.3)",
+          "oklch(72.1% 0.014 258.3)",
+          "oklch(83.6% 0.014 258.3)",
+          "oklch(95.0% 0.014 258.3)"
+        ]
+      },
+      "body-text": {
+        "role": "neutral",
+        "displayName": "Body Text",
+        "canonical": "#26384b",
+        "tonalRamp": [
+          "oklch(15.0% 0.041 250.5)",
+          "oklch(26.4% 0.041 250.5)",
+          "oklch(37.9% 0.041 250.5)",
+          "oklch(49.3% 0.041 250.5)",
+          "oklch(60.7% 0.041 250.5)",
+          "oklch(72.1% 0.041 250.5)",
+          "oklch(83.6% 0.041 250.5)",
+          "oklch(95.0% 0.041 250.5)"
+        ]
+      },
+      "soft-text": {
+        "role": "neutral",
+        "displayName": "Soft Text",
+        "canonical": "#4a5a6b",
+        "tonalRamp": [
+          "oklch(15.0% 0.034 250.1)",
+          "oklch(26.4% 0.034 250.1)",
+          "oklch(37.9% 0.034 250.1)",
+          "oklch(49.3% 0.034 250.1)",
+          "oklch(60.7% 0.034 250.1)",
+          "oklch(72.1% 0.034 250.1)",
+          "oklch(83.6% 0.034 250.1)",
+          "oklch(95.0% 0.034 250.1)"
+        ]
+      },
+      "on-dark": {
+        "role": "neutral",
+        "displayName": "On Dark",
+        "canonical": "#f4f7fb",
+        "tonalRamp": [
+          "oklch(15.0% 0.006 255.5)",
+          "oklch(26.4% 0.006 255.5)",
+          "oklch(37.9% 0.006 255.5)",
+          "oklch(49.3% 0.006 255.5)",
+          "oklch(60.7% 0.006 255.5)",
+          "oklch(72.1% 0.006 255.5)",
+          "oklch(83.6% 0.006 255.5)",
+          "oklch(95.0% 0.006 255.5)"
+        ]
+      },
+      "on-dark-soft": {
+        "role": "neutral",
+        "displayName": "On Dark Soft",
+        "canonical": "#c6d5e6",
+        "tonalRamp": [
+          "oklch(15.0% 0.029 251.5)",
+          "oklch(26.4% 0.029 251.5)",
+          "oklch(37.9% 0.029 251.5)",
+          "oklch(49.3% 0.029 251.5)",
+          "oklch(60.7% 0.029 251.5)",
+          "oklch(72.1% 0.029 251.5)",
+          "oklch(83.6% 0.029 251.5)",
+          "oklch(95.0% 0.029 251.5)"
+        ]
+      },
+      "water-blue-focus": {
+        "role": "neutral",
+        "displayName": "Water Blue",
+        "canonical": "#1d64b0",
+        "tonalRamp": [
+          "oklch(15.0% 0.120 253.8)",
+          "oklch(26.4% 0.120 253.8)",
+          "oklch(37.9% 0.120 253.8)",
+          "oklch(49.3% 0.120 253.8)",
+          "oklch(60.7% 0.120 253.8)",
+          "oklch(72.1% 0.120 253.8)",
+          "oklch(83.6% 0.120 253.8)",
+          "oklch(95.0% 0.120 253.8)"
+        ]
+      },
+      "error-red": {
+        "role": "neutral",
+        "displayName": "Error Red",
+        "canonical": "#b3261e",
+        "tonalRamp": [
+          "oklch(15.0% 0.120 28.7)",
+          "oklch(26.4% 0.120 28.7)",
+          "oklch(37.9% 0.120 28.7)",
+          "oklch(49.3% 0.120 28.7)",
+          "oklch(60.7% 0.120 28.7)",
+          "oklch(72.1% 0.120 28.7)",
+          "oklch(83.6% 0.120 28.7)",
+          "oklch(95.0% 0.120 28.7)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Display",
+        "purpose": "Hero H1 only; letter bounce-in."
+      },
+      "display-desktop": {
+        "displayName": "Display (desktop)",
+        "purpose": "Hero H1 from 1024px."
+      },
+      "headline": {
+        "displayName": "Headline",
+        "purpose": "Section H2s."
+      },
+      "headline-phone": {
+        "displayName": "Headline Phone",
+        "purpose": "Closing tap-to-call number."
+      },
+      "title-list": {
+        "displayName": "Title List",
+        "purpose": "Service rows and trust claims."
+      },
+      "title-step": {
+        "displayName": "Title Step",
+        "purpose": "Step titles (22px on desktop)."
+      },
+      "label-display": {
+        "displayName": "Label Display",
+        "purpose": "Form labels and header phone."
+      },
+      "button": {
+        "displayName": "Button",
+        "purpose": "Pill buttons."
+      },
+      "numeral": {
+        "displayName": "Numeral",
+        "purpose": "Step circle numbers."
+      },
+      "lede": {
+        "displayName": "Lede",
+        "purpose": "One sentence under a section heading."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Running text and inputs."
+      },
+      "label": {
+        "displayName": "Label",
+        "purpose": "Eyebrows, hints, fine print."
+      }
+    },
+    "shadows": [
+      {
+        "name": "floating-lift",
+        "value": "0 10px 28px rgba(8,24,46,.3)",
+        "purpose": "Floating text circle only."
+      }
+    ],
+    "textures": [
+      {
+        "name": "band-lines",
+        "value": "repeating-linear-gradient(135deg,transparent 0 22px,rgba(255,255,255,.035) 22px 23px)",
+        "purpose": "Hero and deep-navy bands (footer, how it works)."
+      }
+    ],
+    "motion": [
+      {
+        "name": "letter-in",
+        "value": "1s cubic-bezier(.34,1.56,.64,1), 20ms stagger, from translateX(50px) opacity 0",
+        "purpose": "Hero H1 only."
+      },
+      {
+        "name": "rise",
+        "value": "opacity/transform .4s ease-out, from translateY(12px)",
+        "purpose": "Content below the first screen, once."
+      },
+      {
+        "name": "float-in",
+        "value": "transform .35s cubic-bezier(.2,.8,.2,1), from translateY(120px)",
+        "purpose": "Floating text circle show/hide."
+      },
+      {
+        "name": "state",
+        "value": ".2s (buttons, arrows); .15s (fields, chips)",
+        "purpose": "Hover and focus colour changes."
+      },
+      {
+        "name": "press",
+        "value": "scale(.98) over .12s",
+        "purpose": "Button :active."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "narrow",
+        "value": "max-width 380px"
+      },
+      {
+        "name": "md",
+        "value": "760px"
+      },
+      {
+        "name": "lg",
+        "value": "1024px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Primary Button",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "The one green action: free estimate, text this to Travis.",
+      "html": "<a class=\"ds-btn ds-btn-primary\" href=\"#\">Get a free estimate</a>",
+      "css": ":host{--paper:#f4f6fb;--card:#fff;--field:#e6ecf5;--ink:#0b2038;--navy:#143a5e;--deep:#0b2038;--on-dark:#f4f7fb;--on-dark-soft:#c6d5e6;--green:#4cb648;--green-2:#64c560;--green-lit:#74cc6c;--green-ink:#1f6929;--focus:#1d64b0;--error:#b3261e;--display:'Cal Sans','Avenir Next','Segoe UI',system-ui,sans-serif;--text:-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Arial,sans-serif;--pill:999px;--r-card:24px;--r-field:10px} .ds-btn{display:inline-flex;align-items:center;justify-content:center;gap:10px;min-height:56px;padding:0 26px;border-radius:var(--pill);font:400 18px/1 var(--display);text-decoration:none;cursor:pointer;border:2px solid transparent;transition:background-color .2s,color .2s,border-color .2s,transform .12s} .ds-btn:active{transform:scale(.98)} .ds-btn:focus-visible{outline:3px solid var(--focus);outline-offset:3px} .ds-btn-primary{background:var(--green);color:var(--ink);border-color:var(--green)} .ds-btn-primary:hover{background:var(--green-2);border-color:var(--green-2)}"
+    },
+    {
+      "name": "Ghost Button",
+      "kind": "button",
+      "refersTo": "button-ghost",
+      "description": "Secondary action on dark bands only, beside one primary.",
+      "html": "<div class=\"ds-dark\"><a class=\"ds-btn ds-btn-ghost\" href=\"#\"><svg width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M4 5h16v11H9l-5 4z\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg>Text Travis</a></div>",
+      "css": ":host{--paper:#f4f6fb;--card:#fff;--field:#e6ecf5;--ink:#0b2038;--navy:#143a5e;--deep:#0b2038;--on-dark:#f4f7fb;--on-dark-soft:#c6d5e6;--green:#4cb648;--green-2:#64c560;--green-lit:#74cc6c;--green-ink:#1f6929;--focus:#1d64b0;--error:#b3261e;--display:'Cal Sans','Avenir Next','Segoe UI',system-ui,sans-serif;--text:-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Arial,sans-serif;--pill:999px;--r-card:24px;--r-field:10px} .ds-btn{display:inline-flex;align-items:center;justify-content:center;gap:10px;min-height:56px;padding:0 26px;border-radius:var(--pill);font:400 18px/1 var(--display);text-decoration:none;cursor:pointer;border:2px solid transparent;transition:background-color .2s,color .2s,border-color .2s,transform .12s} .ds-btn:active{transform:scale(.98)} .ds-btn:focus-visible{outline:3px solid var(--focus);outline-offset:3px} .ds-dark{background:var(--navy);padding:24px} .ds-btn-ghost{background:transparent;color:var(--on-dark);border-color:rgba(244,247,251,.7)} .ds-btn-ghost:hover{border-color:#fff;background:rgba(255,255,255,.1)} .ds-dark .ds-btn:focus-visible{outline-color:var(--green-lit)}"
+    },
+    {
+      "name": "Eyebrow",
+      "kind": "chip",
+      "refersTo": "eyebrow",
+      "description": "Quiet label pill above the hero H1 and a few section heads. Not a button, not a heading.",
+      "html": "<p class=\"ds-eyebrow\">Free estimate</p>",
+      "css": ":host{--paper:#f4f6fb;--card:#fff;--field:#e6ecf5;--ink:#0b2038;--navy:#143a5e;--deep:#0b2038;--on-dark:#f4f7fb;--on-dark-soft:#c6d5e6;--green:#4cb648;--green-2:#64c560;--green-lit:#74cc6c;--green-ink:#1f6929;--focus:#1d64b0;--error:#b3261e;--display:'Cal Sans','Avenir Next','Segoe UI',system-ui,sans-serif;--text:-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Arial,sans-serif;--pill:999px;--r-card:24px;--r-field:10px} .ds-eyebrow{margin:0;display:inline-flex;align-items:center;gap:10px;font:500 14px/1 var(--text);letter-spacing:.02em;color:var(--ink);background:rgba(11,32,56,.06);padding:9px 14px;border-radius:var(--pill)} .ds-eyebrow::before{content:'';width:7px;height:7px;border-radius:50%;background:var(--green)}"
+    },
+    {
+      "name": "Text Field",
+      "kind": "input",
+      "refersTo": "input-field",
+      "description": "Tinted, borderless field with a Cal Sans label; water-blue border on hover and focus.",
+      "html": "<div class=\"ds-field\"><label for=\"ds-n\">Your name</label><input id=\"ds-n\" type=\"text\" placeholder=\"First name is fine\"></div>",
+      "css": ":host{--paper:#f4f6fb;--card:#fff;--field:#e6ecf5;--ink:#0b2038;--navy:#143a5e;--deep:#0b2038;--on-dark:#f4f7fb;--on-dark-soft:#c6d5e6;--green:#4cb648;--green-2:#64c560;--green-lit:#74cc6c;--green-ink:#1f6929;--focus:#1d64b0;--error:#b3261e;--display:'Cal Sans','Avenir Next','Segoe UI',system-ui,sans-serif;--text:-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Arial,sans-serif;--pill:999px;--r-card:24px;--r-field:10px} .ds-field{display:grid;gap:8px;background:var(--card);padding:20px;border-radius:var(--r-card)} .ds-field label{font:400 17px/1.2 var(--display);color:var(--ink)} .ds-field input{width:100%;box-sizing:border-box;font:16px/1.4 var(--text);color:var(--ink);background:var(--field);border:2px solid transparent;border-radius:var(--r-field);padding:13px 14px;min-height:52px;caret-color:var(--focus);transition:border-color .15s} .ds-field input::placeholder{color:#56677a} .ds-field input:hover,.ds-field input:focus{outline:none;border-color:var(--focus)}"
+    },
+    {
+      "name": "Job Chips",
+      "kind": "chip",
+      "refersTo": "chip",
+      "description": "Single-choice pills on the form card; selected fills with Ink.",
+      "html": "<div class=\"ds-chips\"><input type=\"radio\" name=\"ds-j\" id=\"ds-j1\" checked><label for=\"ds-j1\">Drain cleaning</label><input type=\"radio\" name=\"ds-j\" id=\"ds-j2\"><label for=\"ds-j2\">Hydro jetting</label><input type=\"radio\" name=\"ds-j\" id=\"ds-j3\"><label for=\"ds-j3\">Not sure</label></div>",
+      "css": ":host{--paper:#f4f6fb;--card:#fff;--field:#e6ecf5;--ink:#0b2038;--navy:#143a5e;--deep:#0b2038;--on-dark:#f4f7fb;--on-dark-soft:#c6d5e6;--green:#4cb648;--green-2:#64c560;--green-lit:#74cc6c;--green-ink:#1f6929;--focus:#1d64b0;--error:#b3261e;--display:'Cal Sans','Avenir Next','Segoe UI',system-ui,sans-serif;--text:-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Arial,sans-serif;--pill:999px;--r-card:24px;--r-field:10px} .ds-chips{display:flex;flex-wrap:wrap;gap:10px;background:var(--card);padding:20px} .ds-chips input{position:absolute;width:1px;height:1px;opacity:0;margin:0} .ds-chips label{display:inline-flex;align-items:center;min-height:48px;padding:0 18px;border-radius:var(--pill);background:var(--field);border:2px solid transparent;font:16px/1 var(--text);color:var(--ink);cursor:pointer;transition:border-color .15s,background-color .15s,color .15s} .ds-chips label:hover{border-color:var(--focus)} .ds-chips input:focus-visible+label{outline:3px solid var(--focus);outline-offset:2px} .ds-chips input:checked+label{background:var(--ink);color:#fff} .ds-chips input:checked+label:hover{outline:2px solid var(--focus);outline-offset:2px}"
+    },
+    {
+      "name": "Form Card",
+      "kind": "card",
+      "refersTo": "form-card",
+      "description": "The only card: white, 24px corners, no border or shadow, on paper.",
+      "html": "<div class=\"ds-bg\"><div class=\"ds-card\"><b>What do you need?</b><p>Describe what you're seeing.</p></div></div>",
+      "css": ":host{--paper:#f4f6fb;--card:#fff;--field:#e6ecf5;--ink:#0b2038;--navy:#143a5e;--deep:#0b2038;--on-dark:#f4f7fb;--on-dark-soft:#c6d5e6;--green:#4cb648;--green-2:#64c560;--green-lit:#74cc6c;--green-ink:#1f6929;--focus:#1d64b0;--error:#b3261e;--display:'Cal Sans','Avenir Next','Segoe UI',system-ui,sans-serif;--text:-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Arial,sans-serif;--pill:999px;--r-card:24px;--r-field:10px} .ds-bg{background:var(--paper);padding:24px} .ds-card{background:var(--card);border-radius:var(--r-card);padding:clamp(20px,5vw,32px);display:grid;gap:20px;max-width:600px} .ds-card b{font:400 17px/1.2 var(--display);color:var(--ink)} .ds-card p{margin:0;font:16px/1.7 var(--text);color:#26384b}"
+    },
+    {
+      "name": "Header",
+      "kind": "nav",
+      "refersTo": "",
+      "description": "White header: logo left, tap-to-call number right. No menu.",
+      "html": "<header class=\"ds-top\"><span class=\"ds-logo\">McBride Services LLC</span><a class=\"ds-tel\" href=\"#\"><svg width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M5 3h3.5l1.8 4.6-2.3 1.5a11 11 0 0 0 6 6l1.5-2.3L20 14.5V18a2 2 0 0 1-2.2 2A16 16 0 0 1 3 5.2 2 2 0 0 1 5 3z\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg>609.206.1300</a></header>",
+      "css": ":host{--paper:#f4f6fb;--card:#fff;--field:#e6ecf5;--ink:#0b2038;--navy:#143a5e;--deep:#0b2038;--on-dark:#f4f7fb;--on-dark-soft:#c6d5e6;--green:#4cb648;--green-2:#64c560;--green-lit:#74cc6c;--green-ink:#1f6929;--focus:#1d64b0;--error:#b3261e;--display:'Cal Sans','Avenir Next','Segoe UI',system-ui,sans-serif;--text:-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Arial,sans-serif;--pill:999px;--r-card:24px;--r-field:10px} .ds-top{background:var(--card);color:var(--ink);display:flex;align-items:center;justify-content:space-between;gap:12px;min-height:72px;padding:8px 20px} .ds-logo{font:400 20px/1 var(--display);color:var(--green-ink)} .ds-tel{display:inline-flex;align-items:center;gap:8px;min-height:44px;font:400 17px/1 var(--display);text-decoration:none;color:inherit;white-space:nowrap} .ds-tel svg{color:var(--green-ink)} .ds-tel:hover{color:var(--green-ink)} .ds-tel:focus-visible{outline:3px solid var(--focus);outline-offset:3px;border-radius:6px}"
+    },
+    {
+      "name": "Service Row",
+      "kind": "custom",
+      "refersTo": "arrow-circle",
+      "description": "Whole row is the link on water navy; only the arrow circle fills green on hover or focus.",
+      "html": "<div class=\"ds-navy\"><a class=\"ds-row\" href=\"#\">Video sewer inspections<span class=\"ds-arrow\"><svg width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg></span></a><a class=\"ds-row\" href=\"#\">Hydro jetting<span class=\"ds-arrow\"><svg width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg></span></a></div>",
+      "css": ":host{--paper:#f4f6fb;--card:#fff;--field:#e6ecf5;--ink:#0b2038;--navy:#143a5e;--deep:#0b2038;--on-dark:#f4f7fb;--on-dark-soft:#c6d5e6;--green:#4cb648;--green-2:#64c560;--green-lit:#74cc6c;--green-ink:#1f6929;--focus:#1d64b0;--error:#b3261e;--display:'Cal Sans','Avenir Next','Segoe UI',system-ui,sans-serif;--text:-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Arial,sans-serif;--pill:999px;--r-card:24px;--r-field:10px} .ds-navy{background:var(--navy);padding:0 20px} .ds-row{display:flex;align-items:center;justify-content:space-between;gap:16px;min-height:72px;padding:12px 0;text-decoration:none;color:var(--on-dark);font:400 clamp(20px,5.6vw,24px)/1.2 var(--display)} .ds-row+.ds-row{border-top:1px solid rgba(255,255,255,.12)} .ds-row:focus-visible{outline:none} .ds-arrow{width:44px;height:44px;flex:none;border-radius:50%;display:grid;place-items:center;background:rgba(255,255,255,.1);color:var(--on-dark);transition:background-color .2s,color .2s} .ds-row:hover .ds-arrow,.ds-row:focus-visible .ds-arrow{background:var(--green);color:var(--ink)} .ds-row:focus-visible .ds-arrow{outline:3px solid var(--green-lit);outline-offset:3px}"
+    },
+    {
+      "name": "Step",
+      "kind": "custom",
+      "refersTo": "step-numeral",
+      "description": "Numbered step on textured deep navy with a green numeral circle.",
+      "html": "<ol class=\"ds-steps\"><li><div><b>Call or text me.</b><span>Tell me what's backing up, slow or leaking.</span></div></li><li><div><b>Free estimate.</b><span>I look first, then tell you plainly what it needs.</span></div></li></ol>",
+      "css": ":host{--paper:#f4f6fb;--card:#fff;--field:#e6ecf5;--ink:#0b2038;--navy:#143a5e;--deep:#0b2038;--on-dark:#f4f7fb;--on-dark-soft:#c6d5e6;--green:#4cb648;--green-2:#64c560;--green-lit:#74cc6c;--green-ink:#1f6929;--focus:#1d64b0;--error:#b3261e;--display:'Cal Sans','Avenir Next','Segoe UI',system-ui,sans-serif;--text:-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Arial,sans-serif;--pill:999px;--r-card:24px;--r-field:10px} .ds-steps{list-style:none;margin:0;padding:24px;display:grid;gap:24px;counter-reset:s;background-color:var(--deep);background-image:repeating-linear-gradient(135deg,transparent 0 22px,rgba(255,255,255,.035) 22px 23px);color:var(--on-dark-soft);font:16px/1.7 var(--text)} .ds-steps li{display:grid;grid-template-columns:48px 1fr;gap:16px;align-items:start;counter-increment:s} .ds-steps li::before{content:counter(s);width:48px;height:48px;border-radius:50%;display:grid;place-items:center;background:var(--green);color:var(--ink);font:400 20px/1 var(--display)} .ds-steps b{display:block;font:400 21px/1.2 var(--display);color:var(--on-dark);margin-top:4px} .ds-steps span{display:block;margin-top:4px}"
+    },
+    {
+      "name": "Floating Text Circle",
+      "kind": "button",
+      "refersTo": "float-text",
+      "description": "The single fixed control: a 60px green circle that opens a pre-written text. Shown after the hero, hidden while the form is in view.",
+      "html": "<a class=\"ds-float\" href=\"#\" aria-label=\"Text Travis\"><svg width=\"26\" height=\"26\" viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M4 5h16v11H9l-5 4z\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg></a>",
+      "css": ":host{--paper:#f4f6fb;--card:#fff;--field:#e6ecf5;--ink:#0b2038;--navy:#143a5e;--deep:#0b2038;--on-dark:#f4f7fb;--on-dark-soft:#c6d5e6;--green:#4cb648;--green-2:#64c560;--green-lit:#74cc6c;--green-ink:#1f6929;--focus:#1d64b0;--error:#b3261e;--display:'Cal Sans','Avenir Next','Segoe UI',system-ui,sans-serif;--text:-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Arial,sans-serif;--pill:999px;--r-card:24px;--r-field:10px} .ds-float{width:60px;height:60px;border-radius:50%;display:grid;place-items:center;background:var(--green);color:var(--ink);box-shadow:0 10px 28px rgba(8,24,46,.3);transition:transform .35s cubic-bezier(.2,.8,.2,1)} .ds-float:focus-visible{outline:3px solid var(--focus);outline-offset:3px}"
+    }
+  ],
+  "narrative": {
+    "northStar": "Clear Water, One Green Valve",
+    "overview": "A local trade page that earns trust through calm order. Full-bleed bands alternate between off-white paper and two water navies, so every section boundary is obvious from a phone thumb-scroll. Against all that blue, the McBride logo's green is the only saturated colour, and it appears only where there is something to do: the estimate button, the text circle, the service-row arrow on hover, and the step numerals. Everything is soft and borderless: pill buttons, 24px cards, tinted fields.\n\nDensity is low and the reading is plain. One display face (Cal Sans) carries headings, phone numbers, buttons and labels; the system stack carries running text at 16/1.7. There are no photos; the bands, the faint diagonal line texture on the navies and the real logo on a white header carry the atmosphere. Motion is three moments and no more: the hero H1 bounces in letter by letter, content below the first screen rises 12px once, and the text circle slides in after the hero.\n\nThis is Ellie's house \"calm band\" world (learned from lpmr.co.uk, first built for DPG Home Improvement), tuned to McBride's logo: green replaces the house gold, and the navies lean toward water.",
+    "keyCharacteristics": [
+      "Paper / water navy / paper / deep navy band rhythm, never a black ground.",
+      "One accent fill (McBride green) with navy text on it; green as text only in its darker or lighter tuned shades.",
+      "Cal Sans at weight 400 for every display role; system sans for body.",
+      "Pills, 24px cards, 10px tinted fields; no borders at rest, no card shadows.",
+      "Hover and focus show as a water-blue outline or a green arrow fill, never as a page-wide change."
+    ],
+    "rules": [
+      {
+        "name": "The One Green Valve Rule",
+        "body": "Green fills mean \"do this\". Nothing decorative, no large green areas, no green section backgrounds. If an element isn't an action or a marker of one, it isn't green.",
+        "section": "colors"
+      },
+      {
+        "name": "The Tuned Green Rule",
+        "body": "Mid green never appears as text. On light grounds use Logo Green Ink; on navy use Green Lit. On a green fill, text is Ink, never white.",
+        "section": "colors"
+      },
+      {
+        "name": "The Accent Phrase Rule",
+        "body": "Only headings on dark bands (the hero and navy bands) set their last phrase in Green Lit. Headings on paper stay all Ink.",
+        "section": "colors"
+      },
+      {
+        "name": "The One Display Face Rule",
+        "body": "Cal Sans at 400 is the only display face and the only display weight. Emphasis comes from size and colour, never from bold display type.",
+        "section": "typography"
+      },
+      {
+        "name": "The Sixteen Floor Rule",
+        "body": "Nothing a person types or reads as running copy goes below 16px; 14px is reserved for labels and fine print.",
+        "section": "typography"
+      },
+      {
+        "name": "The Flat Page Rule",
+        "body": "Only the floating text circle casts a shadow. Anything in the page flow is separated by band colour or a hairline, never by elevation.",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "**Do** alternate full-bleed bands (paper, water navy, deep navy) so every new section is obvious, and put the 135deg line texture only on the hero and deep-navy bands at 3.5% white.",
+      "**Do** keep McBride Green to fills that mean \"act\", with Ink text on them.",
+      "**Do** use Logo Green Ink for green marks on light grounds and Green Lit for green on navy.",
+      "**Do** set every heading, number, button and form label in Cal Sans 400, and every input at 16px or larger.",
+      "**Do** make focus visible everywhere: 3px water-blue outline at 3px offset on light, Green Lit on dark bands.",
+      "**Do** keep tap targets at 44px or larger, including footer links and inline text links.",
+      "**Do** keep everything visible at rest; motion only reveals what JS has hidden below the first screen."
+    ],
+    "donts": [
+      "**Don't** use a black ground; the darkest surface is Deep Navy.",
+      "**Don't** put white text on green or mid green as text on paper (both fail contrast).",
+      "**Don't** add shadows to cards, fields or bands; only the floating circle lifts.",
+      "**Don't** give headings on paper a green accent phrase; that treatment belongs to dark bands.",
+      "**Don't** let the letter bounce-in touch any heading but the hero H1, and don't add parallax, counters or carousels.",
+      "**Don't** add a bottom contact bar; the single floating circle is the only fixed element.",
+      "**Don't** add a second display face or bold display weights."
+    ]
+  }
+}
